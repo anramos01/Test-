@@ -1,0 +1,18 @@
+/* Import Google Fonts, 17 July 2024 */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+/* Apply the imported Google Font to headers */
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Apply the imported Google Font to body copy */
+body {
+    padding-top: 5rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Add padding to the starter-template class */
+.starter-template {
+    padding: 3rem 1.5rem;
+}
